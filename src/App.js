@@ -1,4 +1,4 @@
-import YavorskyiImage from './Yavorslyi.jpg';
+import YavorskyiImage from './Yavorskyi.jpg';
 import './App.css';
 
 function App() {
