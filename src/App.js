@@ -1,4 +1,4 @@
-import NazariiImage from './NazariiFaidula.jpg';
+import ShevchukDmytro from './ShevchukDmytro.jpg';
 import './App.css';
 
 function App() {
@@ -6,9 +6,9 @@ function App() {
     <div className="container">
         <div className="row">
             <div className="card">
-                <img src={NazariiImage}/>
-                <h2>Файдула Н.А.</h2>
-                <p>Project Manager</p>
+                <img src={ShevchukDmytro}/>
+                <h2>Шевчук Д. Д.</h2>
+                <p>Frontend Developer</p>
             </div>
         </div>
         <div className="row">
