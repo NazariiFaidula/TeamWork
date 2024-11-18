@@ -1,4 +1,4 @@
-import NazariiImage from '49.jpg';
+import NazariiImage from 'NazariiFaidula.jpg';
 import './App.css';
 
 function App() {
