@@ -11,12 +11,12 @@ function App() {
         <div className="row">
             <div className="card">
                 <img src={NazariiImage}/>
-                <h2>Назарій Н.А.</h2>
+                <h2>Файдула Н. А.</h2>
                 <p>Project Manager</p>
             </div>
             <div className="card">
                 <img src={MaksImage}/>
-                <h2>Фалібога М.С.</h2>
+                <h2>Фалібога М. С.</h2>
                 <p>QA engineer</p>
             </div>
              <div className="card">
@@ -28,12 +28,12 @@ function App() {
         <div className="row">
             <div className="card">
                 <img src={YavorskyiImage}/>
-                <h2>Яворський А.В.</h2>
+                <h2>Яворський А. В.</h2>
                 <p>UI/UX designer</p>
             </div>
             <div className="card">
                 <img src={ChernetsImage}/>
-                <h2>Чернець А.В.</h2>
+                <h2>Чернець А. В.</h2>
                 <p>Backend Developer</p>
             </div>
         </div>
