@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import NazariiImage from '49.jpg';
 import './App.css';
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
     <div className="container">
         <div className="row">
             <div className="card">
-                <img src="49.jpg"></img>
+                <img src={NazariiImage}></img>
                 <h2>Файдула Н.А.</h2>
                 <p>Project Manager</p>
             </div>
