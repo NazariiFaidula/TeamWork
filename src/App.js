@@ -1,3 +1,4 @@
+import YavorskyiImage from './Yavorskyi.jpg';
 import MaksImage from './Photo.jpg';
 import ShevchukDmytro from './ShevchukDmytro.jpg';
 import './App.css';
@@ -18,6 +19,11 @@ function App() {
             </div>
         </div>
         <div className="row">
+		<div className="card">
+                <img src={YavorskyiImage}/>
+                <h2>Яворський А.В.</h2>
+                <p>UI/UX designer</p>
+            </div>
         </div>
     </div>
   );
