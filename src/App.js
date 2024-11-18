@@ -6,7 +6,7 @@ function App() {
     <div className="container">
         <div className="row">
             <div className="card">
-                <img src={NazariiImage}></img>
+                <img src={NazariiImage}/>
                 <h2>Файдула Н.А.</h2>
                 <p>Project Manager</p>
             </div>
