@@ -7,7 +7,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className="container">
+      <div className="container">
+        <h2 className="header">AlcoFamily</h2>
         <div className="row">
             <div className="card">
                 <img src={NazariiImage}/>
