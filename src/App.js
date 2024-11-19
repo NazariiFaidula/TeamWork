@@ -7,6 +7,9 @@ import './App.css';
 
 function App() {
   return (
+    <h2 className="header">
+        AlcoFamily
+    </h2>
     <div className="container">
         <div className="row">
             <div className="card">
